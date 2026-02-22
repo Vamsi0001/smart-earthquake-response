@@ -1,0 +1,6 @@
+date,time,latitude,longitude,magnitude,depth,region,epicenter_name
+2023-01-15,14:30:00,-2.1523,115.4563,5.2,25.0,Java,Java Sea
+2023-02-02,08:45:30,-0.6892,101.3456,4.8,18.5,Sumatra,West Coast
+2023-03-10,16:20:15,-3.2145,118.7234,5.5,35.0,Sulawesi,Makassar Strait
+2023-04-05,11:15:45,-5.1234,120.3456,4.5,22.0,Bali,Bali Sea
+2023-05-20,09:30:00,-1.5678,104.2345,5.8,40.0,Sumatra,Padang Region
